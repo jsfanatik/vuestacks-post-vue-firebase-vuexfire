@@ -1,7 +1,6 @@
 # vuestacks-post-vue-firebase-vuexfire
 
 ![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-post-vue-vuex-firebase/master/src/assets/vuestacks-post1.JPG)
-
 ![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-post-vue-vuex-firebase/master/src/assets/vuestacks-post2.JPG)
 
 ## Project setup
